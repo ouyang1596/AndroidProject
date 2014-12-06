@@ -1,4 +1,0 @@
-AndroidProject
-==============
-
-hello
